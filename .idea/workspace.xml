@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ecb7d93-5d4e-47d0-a38d-bc45797d635e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/missileD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/missileL.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/missileLD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/missileLU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/missileR.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/missileRD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/missileRU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/missileU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tankD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tankL.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tankLD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tankLD1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tankLU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tankLU1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tankR.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tankRD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tankRD1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tankRU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tankRU1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tankU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xujunyuan/audio/explode.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xujunyuan/tank/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xujunyuan/tank/Bullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xujunyuan/tank/Dir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xujunyuan/tank/Exploed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xujunyuan/tank/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xujunyuan/tank/ImageUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xujunyuan/tank/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xujunyuan/tank/PropertyMgr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xujunyuan/tank/ResourceMgr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xujunyuan/tank/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xujunyuan/tank/TankFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/missileD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/missileL.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/missileLD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/missileLU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/missileR.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/missileRD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/missileRU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/missileU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/tankD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/tankL.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/tankLD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/tankLD1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/tankLU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/tankLU1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/tankR.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/tankRD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/tankRD1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/tankRU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/tankRU1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/tankU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ImageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ImageTestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xujunyuan/tank/Bullet$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xujunyuan/tank/Bullet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xujunyuan/tank/Dir.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xujunyuan/tank/Exploed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xujunyuan/tank/Group.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xujunyuan/tank/ImageUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xujunyuan/tank/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xujunyuan/tank/PropertyMgr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xujunyuan/tank/ResourceMgr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xujunyuan/tank/Tank$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xujunyuan/tank/Tank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xujunyuan/tank/TankFrame$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xujunyuan/tank/TankFrame$MyKeyListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xujunyuan/tank/TankFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/missileD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/missileL.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/missileLD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/missileLU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/missileR.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/missileRD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/missileRU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/missileU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/tankD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/tankL.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/tankLD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/tankLD1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/tankLU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/tankLU1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/tankR.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/tankRD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/tankRD1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/tankRU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/tankRU1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/tankU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tank-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ImageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ImageTestTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lbmkOWDpIv5ERi8vPkyFchplvC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\29738\IdeaProjects\tank\src\images" />
+      <recent name="C:\Users\29738\IdeaProjects\tank\src\main\resources" />
+      <recent name="C:\Users\29738\IdeaProjects\tank\src\main\java\com\xujunyuan\audio" />
+      <recent name="C:\Users\29738\IdeaProjects\tank\src\main\resources\images" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\29738\IdeaProjects\tank\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xujunyuan.tank.Main" />
+      <module name="tank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xujunyuan.tank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropertyMgr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xujunyuan.tank.PropertyMgr" />
+      <module name="tank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xujunyuan.tank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageTestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tank" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ImageTestTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageTestTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tank" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ImageTestTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PropertyMgr" />
+        <item itemvalue="JUnit.ImageTestTest.test" />
+        <item itemvalue="JUnit.ImageTestTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ecb7d93-5d4e-47d0-a38d-bc45797d635e" name="Default Changelist" comment="" />
+      <created>1607874306659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607874306659</updated>
+      <workItem from="1607874310633" duration="4282000" />
+      <workItem from="1607916491351" duration="3633000" />
+      <workItem from="1607921753586" duration="19137000" />
+      <workItem from="1607942242060" duration="3942000" />
+      <workItem from="1608006470810" duration="8472000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="93" key="#Project_Structure" timestamp="1608013225671">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="428" y="93" key="#Project_Structure/0.0.1920.1040/1920.0.1463.783@0.0.1920.1040" timestamp="1608013225671" />
+    <state x="687" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608011974146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1463.783@0.0.1920.1040" timestamp="1608011974146" />
+    <state x="747" y="219" key="#com.intellij.ide.util.MemberChooser" timestamp="1608007269179">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="747" y="219" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1463.783@0.0.1920.1040" timestamp="1608007269179" />
+    <state x="616" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1608011934200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/1920.0.1463.783@0.0.1920.1040" timestamp="1608011934200" />
+    <state width="438" height="466" key="DebuggerActiveHint" timestamp="1608012784111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="438" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1463.783@0.0.1920.1040" timestamp="1608012784111" />
+    <state x="753" y="433" key="Github.CreateGistDialog" timestamp="1608014439095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="433" key="Github.CreateGistDialog/0.0.1920.1040/1920.0.1463.783@0.0.1920.1040" timestamp="1608014439095" />
+    <state width="1877" height="332" key="GridCell.Tab.0.bottom" timestamp="1608013689670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1463.783@0.0.1920.1040" timestamp="1608013689670" />
+    <state width="1877" height="332" key="GridCell.Tab.0.center" timestamp="1608013689670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="332" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1463.783@0.0.1920.1040" timestamp="1608013689670" />
+    <state width="1877" height="332" key="GridCell.Tab.0.left" timestamp="1608013689670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="332" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1463.783@0.0.1920.1040" timestamp="1608013689670" />
+    <state width="1877" height="332" key="GridCell.Tab.0.right" timestamp="1608013689670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="332" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1463.783@0.0.1920.1040" timestamp="1608013689670" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1608012943976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1463.783@0.0.1920.1040" timestamp="1608012943976" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1608012943976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1463.783@0.0.1920.1040" timestamp="1608012943976" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1608012943976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1463.783@0.0.1920.1040" timestamp="1608012943976" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1608012943976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1463.783@0.0.1920.1040" timestamp="1608012943976" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1607927263280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.0.1463.783@0.0.1920.1040" timestamp="1607927263280" />
+    <state x="449" y="163" key="SettingsEditor" timestamp="1607928006537">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="449" y="163" key="SettingsEditor/0.0.1920.1040/1920.0.1463.783@0.0.1920.1040" timestamp="1607928006537" />
+    <state x="731" y="331" width="458" height="359" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1607927249563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="331" width="458" height="359" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/1920.0.1463.783@0.0.1920.1040" timestamp="1607927249563" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1607937339226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1463.783@0.0.1920.1040" timestamp="1607937339226" />
+  </component>
+</project>
